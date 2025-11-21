@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Aluno/Aluno.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Aluno/Aluno2.iml" filepath="$PROJECT_DIR$/Desafios/Aluno/Aluno2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Alunos/Alunos.iml" filepath="$PROJECT_DIR$/Desafios/Alunos/Alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Alunos/Alunos2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Alunos/Alunos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Animal/Animal.iml" filepath="$PROJECT_DIR$/Desafios/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Animal/Animal2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Animal/Animal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Banco/Banco.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Banco/Banco2.iml" filepath="$PROJECT_DIR$/Desafios/Banco/Banco2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Calcula/Calcula.iml" filepath="$PROJECT_DIR$/Desafios/Calcula/Calcula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Calcula/Calcula2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Calcula/Calcula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/CalculoSalaDeAula/CalculoSalaDeAula.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/CalculoSalaDeAula/CalculoSalaDeAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/CalculoSalaDeAula/CalculoSalaDeAula2.iml" filepath="$PROJECT_DIR$/Desafios/CalculoSalaDeAula/CalculoSalaDeAula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Carro2/Carro2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Carro2/Carro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Carro2/Carro3.iml" filepath="$PROJECT_DIR$/Desafios/Carro2/Carro3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Compras/Compras.iml" filepath="$PROJECT_DIR$/Desafios/Compras/Compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Conhecimento-da-Alura.iml" filepath="$PROJECT_DIR$/.idea/Conhecimento-da-Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/Desafios/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/ContaBancaria/ContaBancaria2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/ContaBancaria/ContaBancaria2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/ConversorMeda/ConversorMeda.iml" filepath="$PROJECT_DIR$/Desafios/ConversorMeda/ConversorMeda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/ConversorMeda/ConversorMeda2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/ConversorMeda/ConversorMeda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/IdadePessoa/IdadePessoa.iml" filepath="$PROJECT_DIR$/Desafios/IdadePessoa/IdadePessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/IdadePessoa/IdadePessoa2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/IdadePessoa/IdadePessoa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/JogoAdivinha/JogoAdivinha.iml" filepath="$PROJECT_DIR$/Curso-Alura/JogoAdivinha/JogoAdivinha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoAdivinha/JogoAdivinha2.iml" filepath="$PROJECT_DIR$/JogoAdivinha/JogoAdivinha2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Musica/Musica.iml" filepath="$PROJECT_DIR$/Desafios/Musica/Musica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Musica/Musica2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Musica/Musica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Desafios/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Pessoa/Pessoa2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Pessoa/Pessoa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratica/Pratica.iml" filepath="$PROJECT_DIR$/Pratica/Pratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Pratica/Pratica2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Pratica/Pratica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/Produto/Produto.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/Produto/Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Produto/Produto2.iml" filepath="$PROJECT_DIR$/Desafios/Produto/Produto2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/TabuadaMultiplicacao/TabuadaMultiplicacao.iml" filepath="$PROJECT_DIR$/Desafios/TabuadaMultiplicacao/TabuadaMultiplicacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/Desafios/TabuadaMultiplicacao/TabuadaMultiplicacao2.iml" filepath="$PROJECT_DIR$/Curso-Alura/Desafios/TabuadaMultiplicacao/TabuadaMultiplicacao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Titulo/Titulo.iml" filepath="$PROJECT_DIR$/Desafios/Titulo/Titulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VrfPositivo/VrfPositivo.iml" filepath="$PROJECT_DIR$/VrfPositivo/VrfPositivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/VrfPositivo/VrfPositivo2.iml" filepath="$PROJECT_DIR$/Curso-Alura/VrfPositivo/VrfPositivo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/inteiros/inteiros.iml" filepath="$PROJECT_DIR$/Desafios/inteiros/inteiros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Alura/screenMatch/screenMatch.iml" filepath="$PROJECT_DIR$/Curso-Alura/screenMatch/screenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenMatch/screenMatch2.iml" filepath="$PROJECT_DIR$/screenMatch/screenMatch2.iml" />
+    </modules>
+  </component>
+</project>
